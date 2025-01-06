@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "430606972296",
+    "project_id": "skilltrackerapp-5f7e6",
+    "storage_bucket": "skilltrackerapp-5f7e6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430606972296:android:bb0d4a3f2438eecd6cf63d",
+        "android_client_info": {
+          "package_name": "com.example.skill_tracker_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430606972296-q60c6pegubr8k21r68ge65cjjn8stefg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.skill_tracker_app",
+            "certificate_hash": "0d9657edad3dee4b9fd450aef7b0e4845d2ac2d6"
+          }
+        },
+        {
+          "client_id": "430606972296-liifours5lqbnt9s7hoeompbqsfjbj2u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUCb4Pvt3cuWVvNqw3QsBvYdf2XVqu1Vg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430606972296-liifours5lqbnt9s7hoeompbqsfjbj2u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
